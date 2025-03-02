@@ -1,6 +1,0 @@
-@InspecTest_HostAddress = http://localhost:5140
-
-GET {{InspecTest_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
