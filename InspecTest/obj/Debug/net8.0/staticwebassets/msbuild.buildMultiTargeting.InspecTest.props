@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\InspecTest.props" />
-</Project>
